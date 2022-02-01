@@ -29,5 +29,9 @@ Server Port & Db Credentials are stored in .env file.Check .env.example for more
 ```bash
     yarn start
 ```
+if you have nodemon then:
+```bash
+    yarn start-live
+```
 
 
