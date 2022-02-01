@@ -1,7 +1,33 @@
-# Awesome Project Build with TypeORM
 
-Steps to run this project:
+# express-mysql-crud-typeorm
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+ A basic crud api using express mysql typeorm
+
+
+
+## Installation & Setup
+
+yarn is used here. start server by the following commands
+```bash
+  cd project
+  yarn
+  
+```
+Server Port & Db Credentials are stored in .env file.Check .env.example for more details.
+```bash
+    SERVER_PORT=
+
+    DB_CONNECTION=
+    DB_HOST=
+    DB_PORT=
+    DB_DATABASE=
+    DB_PASSWORD=
+    DB_USERNAME=
+```
+
+## Start The project
+```bash
+    yarn start
+```
+
+
