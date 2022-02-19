@@ -25,6 +25,11 @@ Server Port & Db Credentials are stored in .env file.Check .env.example for more
     DB_USERNAME=
 ```
 
+Seed database after setup
+```bash
+    yarn db:seed
+```    
+
 ## Start The project
 ```bash
     yarn start
