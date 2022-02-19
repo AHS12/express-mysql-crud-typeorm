@@ -7,7 +7,7 @@
 
 ## Installation & Setup
 
-yarn is used here. start server by the following commands
+yarn is used here. install dependencies by the following commands
 ```bash
   cd project
   yarn
